@@ -1,0 +1,11 @@
+__pycache__/*
+try1/*
+try2/*
+beta_full_results.pkl
+beta_quick_results.pkl
+Data.zip
+dqn_agent_weights.weights.h5
+final_evaluation_results.pkl
+hangman_hmm.pkl
+hangman_solution_2_test_beta.ipynb
+hangman_solution_3.ipynb
